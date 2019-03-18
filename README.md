@@ -2,7 +2,7 @@
 
 Collection of my Dockerfiles 
 
-![alt text](img/docker_whale.png)  
+![alt text](img/docker_whale.png | width=48)  
 
 
 ***  

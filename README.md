@@ -1,4 +1,4 @@
-# Dockerfiles ![alt text](img/docker_whale.png)
+# Dockerfiles
 
 Collection of my Dockerfiles
 

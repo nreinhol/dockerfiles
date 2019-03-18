@@ -1,8 +1,8 @@
-# Dockerfiles
+# Dockerfiles  
 
 Collection of my Dockerfiles 
 
-![alt text](img/docker_whale.png)
+![alt text](img/docker_whale.png)  
 
 
 * build Image out of Dockerfile:

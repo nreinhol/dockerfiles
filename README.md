@@ -1,4 +1,4 @@
-# Dockerfiles ![alt text](img/docker_whale.png) <!-- .element height="50%" width="50%" -->
+# Dockerfiles ![alt text](img/docker_whale.png)
 
 Collection of my Dockerfiles
 
